@@ -17,9 +17,7 @@
 ### Glad to see you here!  
 I’m currently a Computer Science undergraduate majoring in AI, web development, and mobile development.   
   
-
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
