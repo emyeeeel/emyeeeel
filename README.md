@@ -1,4 +1,6 @@
 ## Hey, I'm Amiel! 👋  
+I’m currently a Computer Science undergraduate majoring in AI, web development, and mobile development.   
+
 <a href="https://github.com/emyeeeel" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -11,9 +13,6 @@
 <a href="https://www.behance.net/61eb02c1" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
-
-### Glad to see you here!  
-I’m currently a Computer Science undergraduate majoring in AI, web development, and mobile development.   
 
 <br/>  
 
