@@ -16,7 +16,7 @@
 I’m currently a Computer Science undergraduate majoring in AI, web development, and mobile development.   
 
 <br/>  
-## Languages and Tools  
+# Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -54,7 +54,7 @@ I’m currently a Computer Science undergraduate majoring in AI, web development
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 </div>  
 <br/>  
-## Github Stats  
+# Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=emyeeeel&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -65,4 +65,3 @@ I’m currently a Computer Science undergraduate majoring in AI, web development
 
 </td></tr></table>
 <br />
-----
