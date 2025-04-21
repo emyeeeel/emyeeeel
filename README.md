@@ -1,68 +1,109 @@
-## Hey, I'm Amiel! 👋  
-I’m currently a Computer Science undergraduate majoring in AI, web development, and mobile development.   
+# 👋 Hi, I'm Amiel Catado 
 
-<a href="https://github.com/emyeeeel" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+**Computer Science Undergraduate | Full-Stack & Mobile Developer | Data Analyst | AI Developer**  
+*“Learning is growing. Being teachable is the best version of oneself.”*  
+
+---
+
+## 🚀 Technical Highlights
+
+### 🛠 Core Stack
+<img src="https://skillicons.dev/icons?i=flutter,dart,angular,py,tensorflow,firebase,figma,git,php" alt="tech stack" />
+
+### 📈 GitHub Activity
+<a href="https://github.com/emyeeeel">
+  <img src="https://github-readme-stats.vercel.app/api?username=emyeeeel&show_icons=true&theme=react&hide_border=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emyeeeel&theme=react&hide_border=true&layout=compact&exclude_repo=old-project-xyz" />
 </a>
-<a href="https://linkedin.com/in/emyeeeel" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/maryamielrivacatado" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.behance.net/61eb02c1" target="_blank">
-<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
-</a>  
 
-<br/>  
+---
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-<a href="https://www.ionicframework.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ionic.svg" alt="Ionic" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-</div>  
-<br/>  
+## 🌟 Featured Projects
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+### 📸 Instagram Clone ([Source](https://github.com/emyeeeel/MAD3-Final-Project---Catado))
+**Flutter | Firebase | Provider State Management**
 
-<img src="https://github-readme-stats.vercel.app/api?username=emyeeeel&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+**Implementation Highlights:**
+- **Architecture:** Clean MVVM pattern with dedicated model-view separation
+- **Core Features:**
+  - Router-based navigation with protected routes
+  - Firebase Authentication (Email/Google) implementation
+  - Firestore database structure optimization
+- **Key Components:**
+  - Post controller with CRUD operations
+  - Image compression pipeline before Firebase Storage upload
+  - Real-time comments using Firestore listeners
 
-</td><td valign="top" width="50%">
+### ✈️ Airline Booking System ([Source](https://github.com/emyeeeel/AppsDev-2-Airline-Booking-System))
+**Angular | Django REST**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emyeeeel&hide_border=true&layout=compact" align="left" style="width: 100%" />
+**System Structure:**
+- **Frontend:**
+  - Component-based architecture with lazy-loaded modules
+  - Reactive forms with custom validation
+  - Shared service layer for API calls
+- **Backend:**
+  - RESTful API endpoints with JWT authentication
+  - Database normalization for flight/booking entities
 
-</td></tr></table>
-<br />
+---
+
+## 🛠 Technical Arsenal
+
+| **Mobile & Web**       | **AI/ML**              | **DevOps**          | **Design**          |
+|------------------------|------------------------|---------------------|---------------------|
+| Flutter                | TensorFlow             | Docker              | Figma               |
+| Angular/React          | OpenCV                 | GitHub Actions      | Adobe Creative Cloud|
+| Firebase (RTDB, Auth)  | Pandas/NumPy           | Azure               | Blender 3D          |
+
+---
+
+## 🧠 Active Learning Goals
+
+1. **Optimizing Software Architecture:**
+   - *Current Focus:* Enhancing software architecture for scalability, modularity, and maintainability.
+   - *Progress:* Studying advanced patterns like microservices and event-driven architectures. Exploring design principles to improve system performance.
+
+2. **Leveraging AI Subsets for Innovation:**
+   - *NLP (Natural Language Processing):* 
+     - *Current Focus:* Exploring language models and their applications in sentiment analysis and text summarization.
+   - *Graphics and Computer Vision:*
+     - *Current Focus:* Delving into AI-driven graphics rendering techniques and image recognition algorithms for real-time applications.
+   - *Machine Learning:*
+     - *Current Focus:* Strengthening knowledge in supervised learning and neural networks to build predictive models.
+   
+---
+
+## 📬 Let's Build the Future Together
+
+**I’m currently seeking:**  
+✅ **Flexible Internships** in mobile/web development  
+✅ **AI Research Collaborations** for social impact projects  
+✅ **Freelance Opportunities** to solve real-world problems  
+
+**Reach out:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-blue?style=flat&logo=linkedin)](https://linkedin.com/in/emyeeeel)  
+[![Email](https://img.shields.io/badge/Email-Proposal%20Ready-critical?style=flat&logo=gmail)](mailto:maryamielcatado@gmail.com)
+
+---
+
+## 🎓 Education  
+**BS Computer Science**  
+*University of San-Jose Recoletos* (Expected Graduation: 2026)  
+**Relevant Coursework:**  
+- Software Architecture Patterns  
+- Database Management Systems  
+- Human-Computer Interaction  
+
+---
+
+## 💡 About Me
+
+I am a passionate developer with a focus on creating impactful and scalable solutions. I thrive in environments where I can collaborate with talented teams, and I continuously seek opportunities to expand my knowledge and contribute to innovative projects.
+
+---
+
+## 🏆 Achievements
+- **Certified Data Analyst in Python** by DataCamp (2024)
+
+---
