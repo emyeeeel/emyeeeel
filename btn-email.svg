@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 175.2 80" width="175.2" height="80" role="img" aria-labelledby="t">
+  <title id="t">email me</title>
+  <style>@font-face{font-family:'display';src:url(data:font/woff2;base64,d09GMgABAAAAAAMEAA4AAAAABXQAAAKyAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmAAVBEICoJogkwBNgIkAxwLEAAEIAWCOAcgG1UEyC4KY2Nm9ENUlqbmrr/Y/ogHvjnrzySlpG/VAbFGUgjCIKiuPSbhiPXKA2QFNvM/Lv8Rae/SAKQzODBEhjgnMKS9lbh1N9OcnaqyCiuz0ImbaVka4CQPdS2gtc8DizLsApvWBuvCsP2k73uL78MOKaLDo0xmfc87gIA6IAqCsiAg00k/yESBTAfQUigKQECmj0lQrRhxhTuXAJQNUHca+4a9SsTtcQEAZqBIWAaWwyCVHDx02hyBEtzrJp5U/ssWJRXwhQDhTzyNbrCISNAKTEArcGMBdVVRqhs3v7B4UcCA2O8X74vF6eJEcUwAAISiEEEFNKGKDYDjgBRAFEVB6JS1qaRp2nvuzntonm+EtJ9k28lC89N8x2MxC9mjRxq4HU9DmPN8a2REp9Gu/hglIeQajxZt1xGOypdnkDzNkjzPSnkOTf50TZ2bPDFLHluPKN9oqU03cagrD8k/2veZyqPPPK3DhXB1M5qIRqLGtbHriNYTypKzDjFn0aCHv7U9ONx4bfPeTpm9g5JblRhl0jniws1FCVHyTVf49VrlzEaSwq4CnUFT0sJD4ccU3UDRKh9jD8HziU6zQeUw4SUI3GS3zejwF9yDU/pmi+QKo9Lr++yAMDYpPH5bNxKMv/qQznGSaP+qefINXh262xvgS6GX4eJ/spPaqiIIGC8+K5DhdJOWVeJf49wQBxiOY8GIWyMblLS0gKCiD2iGCTFj3fZYBCakNawBBhFk1hBR3TYiMdpGNtWJkg6elbK0J1dSSllGWFBIzqBli5YtGSSW4BPmljBIpyzFb5BAUl5GMsrm89liYgZ/KFkm+QH66wv8fOYFuMXmpEJSRpyvsWTeokVLqMR0BJSouGLcskJ4wlBSvq5sjoZfUN7pGYbvf5cVlpQwaMm8RYuWwIDipBEqAA==) format('woff2');}
+    .cd{font-family:'display',sans-serif;font-weight:400}</style>
+  <defs>
+    <linearGradient id="coral" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff5d45"/><stop offset="1" stop-color="#f23c25"/></linearGradient>
+    <filter id="glow" x="-20%" y="-40%" width="140%" height="200%"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#ff4d36" flood-opacity=".45"/></filter>
+  </defs>
+  <rect x="14" y="14" width="147.2" height="52" rx="26.0" fill="url(#coral)" filter="url(#glow)"/><rect x="40.0" y="15" width="95.2" height="1" fill="#fff" fill-opacity=".25"/>
+  <text x="38" y="45.5" class="cd" font-size="16" fill="#ffffff">email me</text>
+  <circle cx="135.2" cy="40.0" r="18" fill="#ffffff"/><g transform="translate(127.2 32.0) scale(0.6667)" fill="#ff4d36"><path d="M1.5 8.67v8.58a3 3 0 0 0 3 3h15a3 3 0 0 0 3-3V8.67l-8.928 5.493a3 3 0 0 1-3.144 0L1.5 8.67Z"/><path d="M22.5 6.908V6.75a3 3 0 0 0-3-3h-15a3 3 0 0 0-3 3v.158l9.714 5.978a1.5 1.5 0 0 0 1.572 0L22.5 6.908Z"/></g>
+</svg>

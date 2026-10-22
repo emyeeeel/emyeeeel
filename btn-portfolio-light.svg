@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 172.9 80" width="172.9" height="80" role="img" aria-labelledby="t">
+  <title id="t">portfolio</title>
+  <style>@font-face{font-family:'display';src:url(data:font/woff2;base64,d09GMgABAAAAAAOwAA4AAAAACGwAAANdAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbIByBAgZgAFwRCAqHUIYtATYCJAM4Cx4ABCAFgjgHIBu4BigehXGbE1JoTuW725pQ5ibEQ7T2+mb2Pu0PAMkITWyjyqwrZFx1Za1gXVlZez68XvWSmVnkr1QJzELAXQezEiup/wE4K8//NfVyFThMsAGNRj6Q6KJvq7JIsL2BRQFW2ICO90b3TmTGG3Q3+IKqwV+kERgBpBR6Qt+oFKhWyKNO3H1CIKCBFiBQ7TBGZ9WLvEssyYNILhyd8S4zPRECpPIaDYP79r3g3a4xc+Sp0mZISBGKIbDnNqCnyiQ86Eh9KZjXTWpQA+CRt3QE4BrvEw9gHLpQqoGylzfu/jhVmpJS9b/rTqnCLwTEv5wDbGCQKJjBEZjBdQHG9KWuFzLlKFCkpG3BWP4v268mjRs1YjgKJGm0/yUYAytgEWIfiC8AaAAhhZRCSEVqFDHF5XIZQQkhKUkJCQkuV4LraijBSoThMBR5+J0Q1Nt7oQT1IUMRLsMhhOGRxK4HjQ9J9/2Gew+6HzY+yPM2hD4mMPxOLExWQRhDNdwnjEk1ikAqB/kWAepLyx2mC8K1ixolpAgWZMN1QmZPfp5WPnQ83a97j6m8t4H16bvzqPAhNtxGhNAae9DfLoAXlh+RaG7pyDqb044X7S6iSZctZOfYzyyavULoDSqG+59b/opKWPDM4VJSyiHoTUmGt9G0yU44dguIueb6hxU29L6Gf4DiwIIgMZaKDctIiIhJikw7eTw2NTkazexnx3beyYgAz8CgFG8jVt2xx3FgD9lvF2elIuwiyjzKztmdkzOWtozCcrG4Ax6PCB9khrjPc8HuQk0wqPqSnrKsB9gA55kaD7K4N5QWKmMvp4ZT1uKslBBAIBz9T096Hi9q+7VPOG+BP7upBvBXmjr42zBOBD0H6EsQ/HbLcA5DnQGKPjyWXxxGOcScgK0syFgoZ1rgjXdQsRb8eZ9YmnHKMCNvfQGFMbu4IBECBwDouYMjGkHwCRLyUH2SpxGf5cWettEmU96x5Jy9+/pJF/kKVCqSKV2GEoqMGTJmRJGnPCkyJcqjKESlAqkUuctXmiEuUkl/u5McORS72YtT1tQATgVlUqXkC9Ik6l/K/eQrkpssNqLPkCFutuEphDt//txFjkTFMrjKVKwAHaukJ0iqdKUgXiRsjrU4056/LTCiz9BIjHBQo33GAAA=) format('woff2');}
+    .cd{font-family:'display',sans-serif;font-weight:400}</style>
+  <defs>
+    <linearGradient id="coral" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff5d45"/><stop offset="1" stop-color="#f23c25"/></linearGradient>
+    <filter id="glow" x="-20%" y="-40%" width="140%" height="200%"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#ff4d36" flood-opacity=".45"/></filter>
+  </defs>
+  <rect x="14.5" y="14.5" width="143.9" height="51" rx="25.5" fill="none" stroke="#b4b2a9"/>
+  <text x="38" y="45.5" class="cd" font-size="16" fill="#101014">portfolio</text>
+  <circle cx="132.9" cy="40.0" r="17.5" fill="none" stroke="#b4b2a9"/><g transform="translate(124.9 32.0) scale(0.6667)" fill="none" stroke="#101014" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="2.5"/><path d="M3 9h18"/><circle cx="6.5" cy="6.5" r=".4"/><circle cx="9" cy="6.5" r=".4"/></g>
+</svg>
